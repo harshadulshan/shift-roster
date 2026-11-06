@@ -1,0 +1,6 @@
+# downloaded benchmark data (fetched again on first use, checksums in roster/nrp_sha256.json)
+data_cache/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
